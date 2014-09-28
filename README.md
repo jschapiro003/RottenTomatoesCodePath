@@ -15,3 +15,4 @@ Notes:
    UIImageView of detailed movie description slides in 
 
 
+https://raw.githubusercontent.com/jschapiro003/RottenTomatoesCodePath/master/Rotten%20Tomatoes/RottenTomatoes.gif
